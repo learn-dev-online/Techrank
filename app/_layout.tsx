@@ -1,3 +1,4 @@
+import 'expo-dev-client';
 import { useEffect } from 'react';
 import * as SecureStore from 'expo-secure-store';
 import { ClerkProvider, useAuth } from '@clerk/clerk-expo';
